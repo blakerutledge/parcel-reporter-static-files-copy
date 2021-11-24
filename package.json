@@ -20,16 +20,16 @@
   },
   "homepage": "https://github.com/elwin013/parcel-reporter-static-files-copy#readme",
   "engines": {
-    "parcel": "^2.0.0-beta.1"
+    "parcel": "*"
   },
   "peerDependencies": {
-    "@parcel/plugin": "^2.0.0-beta.1"
+    "@parcel/plugin": "*"
   },
   "dependencies": {
     "fs-extra": "*"
   },
   "devDependencies": {
-    "@parcel/types": "^2.0.0-beta.1",
+    "@parcel/types": "*",
     "eslint": "5.12.0"
   }
 }
