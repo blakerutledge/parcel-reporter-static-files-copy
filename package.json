@@ -22,9 +22,6 @@
   "engines": {
     "parcel": "*"
   },
-  "peerDependencies": {
-    "@parcel/plugin": "*"
-  },
   "dependencies": {
     "fs-extra": "*"
   },
